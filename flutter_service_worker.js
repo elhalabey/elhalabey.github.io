@@ -13,7 +13,7 @@ const RESOURCES = {
 "assets/assets/images/OnlineMarketing.png": "7846d9cc669aa6af4e0c2bdacfc8dd0d",
 "assets/assets/images/ourpartner.png": "c55fbabfc2a7d2680b0bf1a80cc6c7d8",
 "assets/assets/images/playstore.png": "fe3e4c09a168e6e83b860fd6d6caa801",
-"assets/assets/images/SocialMarketing.png": "d41d8cd98f00b204e9800998ecf8427e",
+"assets/assets/images/SocialMarketing.png": "e03056bea145bec064bb2ba9be3f7634",
 "assets/assets/images/VisionPic.png": "eeed60bb177f8fecc56bbb5482387928",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -30,9 +30,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "eb57e20ff897f163ecb23384932d6ed6",
-"/": "eb57e20ff897f163ecb23384932d6ed6",
-"main.dart.js": "8efbdd8595576a6ce30b26c66a89e65e",
+"index.html": "374894c354fc44d15ac436463547abe4",
+"/": "374894c354fc44d15ac436463547abe4",
+"main.dart.js": "3ad5e80723e6e8d3ca5fecbfcb48af76",
 "manifest.json": "a24f7f413606edc6757a0c14e40a46f4",
 "version.json": "8e3747499ae789f47441cb6f7300ec7f"
 };
